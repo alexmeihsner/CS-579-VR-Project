@@ -1,0 +1,53 @@
+# Blender 4.4.3 MTL File: 'Untitled.blend'
+# www.blender.org
+
+newmtl body
+Ns 31.372540
+Ka 1.000000 1.000000 1.000000
+Kd 0.199555 0.080629 0.009630
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl eye
+Ns 439.215698
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/alexandermeihsner/Desktop/CS 579/Actual Project/VR579 Project/objects/Dilophosaurus/eye.jpg
+
+newmtl mouth
+Ns 439.215698
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/alexandermeihsner/Desktop/CS 579/Actual Project/VR579 Project/objects/Dilophosaurus/mouth.jpg
+map_Bump -bm 0.200000 /Users/alexandermeihsner/Desktop/CS 579/Actual Project/VR579 Project/objects/Dilophosaurus/mouth_normals.jpg
+
+newmtl nails
+Ns 439.215698
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/alexandermeihsner/Desktop/CS 579/Actual Project/VR579 Project/objects/Dilophosaurus/nails.jpg
+
+newmtl teeth
+Ns 80.392166
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/alexandermeihsner/Desktop/CS 579/Actual Project/VR579 Project/objects/Dilophosaurus/teeth.jpg
